@@ -27,7 +27,7 @@ Altervatively you can download and install the app form:
 https://github.com/git-lfs/git-lfs/releases/download/v2.7.1/git-lfs-darwin-amd64-v2.7.1.tar.gz
 
 ### Other Operating Systems
-### Downloading
+#### Downloading
 
 You can install the Git LFS client in several different ways, depending on your
 setup and preferences.
@@ -46,9 +46,9 @@ built from source using the latest version of [Go](https://golang.org), and the
 available instructions in our
 [Wiki](https://github.com/git-lfs/git-lfs/wiki/Installation#source).
 
-### Installing
+#### Installing
 
-#### From binary
+##### From binary
 
 The [binary packages](https://github.com/git-lfs/git-lfs/releases) include a script which will:
 
@@ -60,7 +60,7 @@ perform required global configuration changes.
 $ ./install.sh
 ```
 
-#### From source
+##### From source
 
 - Place the `git-lfs` binary on your system’s executable `$PATH` or equivalent.
 - Git LFS requires global configuration changes once per-machine. This can be done by
