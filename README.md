@@ -12,14 +12,14 @@ Notice the atlas file is in Git Large File Storage LFS repository. To mount the 
 ### MacOs
 Using Brew brew:
 
-'''
+```
 install git-lfs
-'''
+```
 
 Using Port 
 
-'''
+```
 port install git-lfs
-'''
+```
 
 
