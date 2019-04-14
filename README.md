@@ -1,7 +1,7 @@
 # NC-18-28140
 
  
-Atlas and Source Codes for image analysis and connectivty calculation for calcium imaging in Zebrafish. This is the support repository for the following paper in Nature Communcation:
+Atlas and Source Codes for image analysis and connectivty calculation for calcium imaging in Zebrafish. This is the supplementary repository for the following paper in Nature Communcation:
 
 Engineering brain activity patterns by neuromodulator polytherapy for treatment of disorders
 
