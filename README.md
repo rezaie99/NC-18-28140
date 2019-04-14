@@ -22,4 +22,7 @@ Using Port
 port install git-lfs
 ```
 
+Altervatively you can download and install the app form:
+
+https://github.com/git-lfs/git-lfs/releases/download/v2.7.1/git-lfs-darwin-amd64-v2.7.1.tar.gz
 
