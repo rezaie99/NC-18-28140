@@ -46,6 +46,29 @@ built from source using the latest version of [Go](https://golang.org), and the
 available instructions in our
 [Wiki](https://github.com/git-lfs/git-lfs/wiki/Installation#source).
 
-See LFS for more details:
+### Installing
+
+#### From binary
+
+The [binary packages](https://github.com/git-lfs/git-lfs/releases) include a script which will:
+
+- Install Git LFS binaries onto the system `$PATH`
+- Run `git lfs install` to
+perform required global configuration changes.
+
+```ShellSession
+$ ./install.sh
+```
+
+#### From source
+
+- Place the `git-lfs` binary on your system’s executable `$PATH` or equivalent.
+- Git LFS requires global configuration changes once per-machine. This can be done by
+running:
+
+```ShellSession
+$ git lfs install
+```
+See LFS website for more details:
 
 https://github.com/git-lfs/git-lfs
